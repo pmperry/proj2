@@ -1,0 +1,73 @@
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  /*font-size: 24pt;*/
+}
+
+h1 {
+  margin: 0;
+  color: #F6F4F2;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  color: #F6F4F2;
+}
+
+body {
+  margin: 0;
+}
+
+/********Class Selectors********/
+.topContainer {
+  background-color: #425664;
+  position: relative;
+  padding-top: 100px;
+}
+
+/*.midContainer {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
+
+.bottomContainer {
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+}*/
+
+.profile {
+  padding-top: 25px;
+}
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+/*
+#F6F4F2 - Secondary color
+#425664 - Primary color
+#C6AD8F - Tertiary color
+
+*/

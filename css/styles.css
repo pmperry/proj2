@@ -45,12 +45,12 @@ p {
 }
 
 .firstHR {
-  padding: 25px;
+/*  padding: 25px; */
   border-style: none;
   border-top-style: dotted;
   border-color: #b5dcff;
   border-width: 5px;
-  width: 2.25%;
+  width: 2.4%;
   margin-top: 100px;
 }
 .pro {
@@ -110,7 +110,7 @@ p {
   border-top-style: dotted;
   border-color: #b5dcff;
   border-width: 5px;
-  width: 2.25%;
+  width: 2.4%;
   margin-top: 100px;
 }
 

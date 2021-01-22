@@ -45,7 +45,7 @@ p {
 }
 
 .firstHR {
-/*  padding: 25px; */
+  /*  padding: 25px; */
   border-style: none;
   border-top-style: dotted;
   border-color: #b5dcff;
@@ -53,6 +53,7 @@ p {
   width: 2.4%;
   margin-top: 100px;
 }
+
 .pro {
   text-decoration: underline;
 }
@@ -80,21 +81,21 @@ p {
   width: 25%;
   float: left;
   margin-right: 30px;
-/*  line-height: 2; */
+  /*  line-height: 2; */
 }
 
 .piano-img {
   width: 25%;
   float: right;
   margin-left: 30px;
-/*  line-height: 2; */
+  /*  line-height: 2; */
 }
 
 .camera-img {
   width: 25%;
   float: left;
   margin-right: 30px;
-/*  line-height: 2; */
+  /*  line-height: 2; */
 }
 
 .code-img {
@@ -105,7 +106,7 @@ p {
 }
 
 .secondHR {
-/*  padding: 25px; */
+  /*  padding: 25px; */
   border-style: none;
   border-top-style: dotted;
   border-color: #b5dcff;
@@ -113,7 +114,6 @@ p {
   width: 2.4%;
   margin-top: 100px;
 }
-
 
 .bottomContainer {
   background-color: #b5dcff;

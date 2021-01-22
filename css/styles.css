@@ -100,6 +100,14 @@ body {
   line-height: 2;
 }
 
+.secondHR {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 3%;
+}
+
 /*
 #E5E4F6 - Secondary color
 #425664 - Primary color

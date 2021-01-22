@@ -74,6 +74,11 @@ p {
   bottom: 300px;
 }
 
+.topContainer {
+  position: relative;
+  padding-top: 100px;
+}
+
 .skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
@@ -115,7 +120,7 @@ p {
   border-style: none;
   border-top-style: dotted;
   border-color: #b5dcff;
-  border-width: 5px;
+/*  border-width: 5px; */
   width: 2.4%;
   margin-top: 100px;
 }

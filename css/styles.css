@@ -44,6 +44,10 @@ p {
   padding-top: 25px;
 }
 
+.profile-img {
+  width: 25%;
+}
+
 .firstHR {
   /*  padding: 25px; */
   border-style: none;

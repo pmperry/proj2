@@ -80,14 +80,14 @@ p {
 }
 
 .skill-row {
-  width: 50%;
+  max-width: 38%;
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 2;
 }
 
 .computer-img {
-  width: 25%;
+  max-width: 20%;
   float: left;
   margin-right: 30px;
   /*  line-height: 2; */

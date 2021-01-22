@@ -39,12 +39,6 @@ body {
   padding-top: 100px;
 }
 
-.bottomContainer {
-  background-color: #b5dcff;
-  position: relative;
-  padding-top: 100px;
-}
-
 .profile {
   padding-top: 25px;
 }
@@ -107,6 +101,12 @@ body {
   border-width: 5px;
   width: 3%;
   margin-top: 100px;
+}
+
+.bottomContainer {
+  background-color: #b5dcff;
+  position: relative;
+  padding-top: 100px;
 }
 
 /*

@@ -44,6 +44,15 @@ p {
   padding-top: 25px;
 }
 
+.firstHR {
+/*  padding: 25px; */
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 5px;
+  width: 2%;
+  margin-top: 100px;
+}
 .pro {
   text-decoration: underline;
 }
@@ -96,12 +105,12 @@ p {
 }
 
 .secondHR {
-  padding: 25px;
+/*  padding: 25px; */
   border-style: none;
   border-top-style: dotted;
   border-color: #EAF6F6;
   border-width: 5px;
-  width: 3%;
+  width: 2%;
   margin-top: 100px;
 }
 

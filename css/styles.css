@@ -95,14 +95,15 @@ p {
   line-height: 2;
 }
 
-.secondHR {
+/*.secondHR {
   border-style: none;
   border-top-style: dotted;
-  border-color: grey;
+  border-color: #3f6d8e;
   border-width: 5px;
   width: 3%;
   margin-top: 100px;
 }
+*/
 
 .bottomContainer {
   background-color: #b5dcff;

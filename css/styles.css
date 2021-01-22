@@ -39,6 +39,12 @@ body {
   padding-top: 100px;
 }
 
+.bottom-container {
+  background-color: #425664;
+  position: relative;
+  padding-top: 100px;
+}
+
 .profile {
   padding-top: 25px;
 }

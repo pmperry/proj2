@@ -81,7 +81,7 @@ p {
   float: left;
   margin-right: 30px;
   margin-top: 30px;
-  line-height: 2;
+/*  line-height: 2; */
 }
 
 .piano-img {
@@ -89,7 +89,7 @@ p {
   float: right;
   margin-left: 30px;
   margin-top: 30px;
-  line-height: 2;
+/*  line-height: 2; */
 }
 
 .camera-img {
@@ -97,7 +97,7 @@ p {
   float: left;
   margin-right: 30px;
   margin-top: 30px;
-  line-height: 2;
+/*  line-height: 2; */
 }
 
 .code-img {
@@ -105,7 +105,7 @@ p {
   float: right;
   margin-left: 30px;
   margin-top: 30px;
-  line-height: 2;
+/*  line-height: 2; */
 }
 
 .secondHR {

@@ -16,6 +16,7 @@ h2 {
   font-size: 2.5rem;
   font-weight: bolder;
   color: #3f6d8e;
+/*  padding-bottom: 10px; */
 }
 
 h3 {
@@ -23,16 +24,18 @@ h3 {
   font-size: 1.25rem;
   color: #3f6d8e;
   font-weight: bolder;
-
-}
-
-h5 {
-  color: #EAF6F6;
 }
 
 p {
   color: #40514E;
-  font-weight: bold;
+  line-height: 2;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
 }
 
 /*body {
@@ -47,10 +50,6 @@ p {
   padding-top: 100px;
 }
 
-.mountain-img {
-
-}
-
 .profile {
   padding-top: 25px;
 }
@@ -59,63 +58,73 @@ p {
   width: 20%;
 }
 
-.firstHR {
-  border-style: none;
+/* .firstHR {
+ border-style: none;
   border-top-style: dotted;
   border-color: #EAF6F6;
   border-width: 5px;
   width: 2.4%;
   margin-top: 100px;
-}
+}*/
 
 .pro {
   text-decoration: underline;
 }
 
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px;
+}
+
 .top-cloud {
   position: absolute;
   right: 300px;
-  top: 50px;
+  top: 40px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
+  left: 250px;
   bottom: 300px;
 }
 
 .middleContainer {
-  position: relative;
-  padding-top: 100px;
-  margin-bottom: 100px;
+  margin: 100px 0;
 }
 
 .skill-row {
   max-width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
-  line-height: 2;
 }
 
 .computer-img {
   max-width: 25%;
   float: left;
   margin-right: 30px;
-  /*  line-height: 2; */
 }
 
 .piano-img {
   width: 25%;
   float: right;
   margin-left: 30px;
-  /*  line-height: 2; */
 }
 
 .camera-img {
   width: 25%;
   float: left;
   margin-right: 30px;
-  /*  line-height: 2; */
 }
 
 .code-img {
@@ -123,26 +132,24 @@ p {
   float: right;
   margin-left: 30px;
   margin-bottom: 100px;
-  line-height: 2;
 }
 
 .spacer {
   margin: 0;
 }
 
-.secondHR {
+/* .secondHR {
   border-style: none;
   border-top-style: dotted;
   border-color: #EAF6F6;
   border-width: 5px;
   width: 2.4%;
   margin-top: 100px;
-}
+} */
 
 .bottomContainer {
   background-color: #b5dcff;
-  position: relative;
-  padding-top: 100px;
+  padding: 50px 0 20px;
 }
 
 .contact_button {

@@ -117,6 +117,10 @@ p {
   line-height: 2;
 }
 
+.spacer {
+  margin: 0; 
+}
+
 .secondHR {
   /*  padding: 25px; */
   border-style: none;

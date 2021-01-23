@@ -24,6 +24,10 @@ h3 {
   font-weight: bolder;
 }
 
+h5 {
+  color: #EAF6F6;
+}
+
 p {
   color: #40514E;
   font-weight: bold;
@@ -39,6 +43,10 @@ p {
   background-color: #b5dcff;
   position: relative;
   padding-top: 100px;
+}
+
+.mountain-img {
+
 }
 
 .profile {

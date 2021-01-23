@@ -118,11 +118,12 @@ p {
 }
 
 .spacer {
-  margin: 0; 
+  margin: 0;
 }
 
 .secondHR {
   /*  padding: 25px; */
+  margin-top: 25px;
   border-style: none;
   border-top-style: dotted;
   border-color: #EAF6F6;

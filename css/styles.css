@@ -20,8 +20,10 @@ h2 {
 
 h3 {
   font-family: 'Montserrat', sans-serif;
+  font-size: 1.25rem;
   color: #3f6d8e;
   font-weight: bolder;
+
 }
 
 h5 {
@@ -58,7 +60,6 @@ p {
 }
 
 .firstHR {
-  /*  padding: 25px; */
   border-style: none;
   border-top-style: dotted;
   border-color: #EAF6F6;
@@ -97,7 +98,7 @@ p {
 }
 
 .computer-img {
-  max-width: 20%;
+  max-width: 25%;
   float: left;
   margin-right: 30px;
   /*  line-height: 2; */
@@ -130,7 +131,6 @@ p {
 }
 
 .secondHR {
-  /*  padding: 25px; */
   border-style: none;
   border-top-style: dotted;
   border-color: #EAF6F6;
